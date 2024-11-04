@@ -1,5 +1,4 @@
 # Welcome to Aditya's GitHub Profile!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityahari95&label=Profile%20views&color=0e75b6&style=flat" alt="adityhari95"/> </p>
 
 ## About Me
 
@@ -27,4 +26,4 @@ Feel free to reach out if you have any questions, or suggestions, or just want t
 Thanks for visiting my GitHub profile! 😊
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityahari95&label=Profile%20views&color=0e75b6&style=flat" alt="adityahari95" /> </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
