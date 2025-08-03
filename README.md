@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Aditya Jha  |  Software Test Engineer  | ~7+ years EXP. | India |
+- Aditya Jha  |  Software Test Engineer  | 7+ years EXP. | India |
 
 ## 🔭  Projects - Test Automation Frameworks
 
